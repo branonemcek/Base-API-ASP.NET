@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp2.0/TodoApi/TodoApi.csproj": {}
+    "/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp2.0/Base-API-ASP.NET-/TodoApi.csproj": {}
   },
   "projects": {
-    "/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp2.0/TodoApi/TodoApi.csproj": {
+    "/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp2.0/Base-API-ASP.NET-/TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp2.0/TodoApi/TodoApi.csproj",
+        "projectUniqueName": "/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp2.0/Base-API-ASP.NET-/TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp2.0/TodoApi/TodoApi.csproj",
+        "projectPath": "/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp2.0/Base-API-ASP.NET-/TodoApi.csproj",
         "packagesPath": "/Users/branislavnemcek/.nuget/packages/",
-        "outputPath": "/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp2.0/TodoApi/obj/",
+        "outputPath": "/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp2.0/Base-API-ASP.NET-/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/branislavnemcek/.nuget/NuGet/NuGet.Config"

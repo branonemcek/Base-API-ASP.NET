@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QELh56YRtEIpim8k290KV3zTDg2C9fzRF7YCCM5BrtXQFgJYLLmteZDe0psc8T4d77YUE89ne+lOb5mt3am/pw==",
+  "dgSpecHash": "5dtt8ErkTy9mIB0cBj3J2FWFAgHVsjFIwxBbV5gfwFjSJ2xoE8epZaQdoKq2XR3I6sZEhxgN7isHFI/umH/+dQ==",
   "success": true,
-  "projectFilePath": "/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp2.0/TodoApi/TodoApi.csproj",
+  "projectFilePath": "/Users/branislavnemcek/Documents/Branislav_Nemček/Ucim_sa_programovat/ChatApp2.0/Base-API-ASP.NET-/TodoApi.csproj",
   "expectedPackageFiles": [
     "/Users/branislavnemcek/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/branislavnemcek/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
